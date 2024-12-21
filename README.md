@@ -1,7 +1,2 @@
-# iOS-Resources
-# iOS-Resources
-# iOS-Resources
-# iOS-Resources
-# iOS-Resources
-# iOS-Resources
-# iOS-Resources
+Tasks and Assignments
+
